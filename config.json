@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "file-input-output",
+      "title": "File Input and Output",
+      "description": "Learn how to read from and write to files in Python.",
+      "path": "assignments/file-input-output",
+      "dueDate": "2026-02-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
